@@ -40,7 +40,7 @@ alpha_lr: 0.0003 # works if open auto alpha
 tau: 0.005
 gamma: 0.95
 
-# dir
+# dir: resume_path should point to PickAndPlace weights (curriculum learning)
 logdir: log
 resume_path: /content/policy.pth
 
