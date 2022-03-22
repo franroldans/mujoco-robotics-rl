@@ -1,6 +1,6 @@
 # environment
 info: Train_OfflineHER_FetchPickAndPlace
-env: FetchSlide-v1
+env: FetchPickAndPlace-v1
 use_her: True
 norm_obs: False
 seed: 5
